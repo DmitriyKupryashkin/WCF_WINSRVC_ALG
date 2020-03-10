@@ -1,0 +1,16 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\Dapper.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\Dapper.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\bin\Debug\Dapper.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache

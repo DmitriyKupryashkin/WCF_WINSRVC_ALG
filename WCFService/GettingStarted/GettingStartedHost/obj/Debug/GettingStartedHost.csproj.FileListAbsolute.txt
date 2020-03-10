@@ -1,0 +1,36 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\Dapper.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\Dapper.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\bin\Debug\Dapper.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\Dapper.dll
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\Dapper.pdb
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\bin\Debug\Dapper.xml
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+F:\Рабочий стол файлы\Desktop\WCFService\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.pdb

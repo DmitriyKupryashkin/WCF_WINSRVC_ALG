@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fb3c36ab-2ed0-48f3-bdc6-6b8c5adf061f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/GettingStarted/ChequeService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Microsoft.ServiceModel.Samples.wsdl" MetadataType="Wsdl" ID="9ef6c9e4-e8e1-4ee3-8d5e-f928b71a783a" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="dc6927e3-1cdb-4882-af1c-e1cae0e57e10" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+    <MetadataFile FileName="Microsoft.ServiceModel.Samples.xsd" MetadataType="Schema" ID="2577b4c8-ce1e-4c6b-9d67-b4e66f6b90ce" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="37f8cf7f-36ac-4470-98d3-bed1ca80b36b" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+    <MetadataFile FileName="GettingStartedLib.xsd" MetadataType="Schema" ID="c1539c75-40d8-4bdb-8992-59740d92ff7f" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="019ec7eb-8071-484e-91bc-8e4fa7ddf1d4" SourceId="1" SourceUrl="http://localhost:8000/GettingStarted/ChequeService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

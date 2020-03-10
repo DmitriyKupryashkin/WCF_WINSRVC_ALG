@@ -1,0 +1,197 @@
+﻿Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Предупреждение. Источник Service1 не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service1 из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Предупреждение. Источник Service1 не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service1 из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe

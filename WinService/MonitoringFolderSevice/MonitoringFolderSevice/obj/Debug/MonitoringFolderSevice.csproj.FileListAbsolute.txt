@@ -1,0 +1,10 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\MonitoringFolderSevice.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\obj\Debug\MonitoringFolderSevice.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\obj\Debug\MonitoringFolderSevice.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\Newtonsoft.Json.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\Newtonsoft.Json.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\obj\Debug\MonitoringFolderSevice.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\log4net.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinServices\MonitoringFolderSevice\MonitoringFolderSevice\bin\Debug\log4net.xml
