@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1436eeb0-2011-46f0-b22d-c02ec8783924" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9001/WcfServiceHostService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyApp.ServiceModel.Samples.wsdl" MetadataType="Wsdl" ID="2804e6f4-6ff0-4405-a60a-37460c19fbf3" SourceId="1" SourceUrl="http://localhost:9001/WcfServiceHostService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="46d2a601-4cf5-419e-8445-d33c7d68007d" SourceId="1" SourceUrl="http://localhost:9001/WcfServiceHostService/mex" />
+    <MetadataFile FileName="MyApp.ServiceModel.Samples.xsd" MetadataType="Schema" ID="606123d3-1fb9-4711-963d-5db3e474c1cc" SourceId="1" SourceUrl="http://localhost:9001/WcfServiceHostService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="d11936e8-771e-4b38-a1f1-1cf05158e895" SourceId="1" SourceUrl="http://localhost:9001/WcfServiceHostService/mex" />
+    <MetadataFile FileName="EchoLib.xsd" MetadataType="Schema" ID="15075fe2-f4e6-43ed-80ae-2fd2f7841c54" SourceId="1" SourceUrl="http://localhost:9001/WcfServiceHostService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

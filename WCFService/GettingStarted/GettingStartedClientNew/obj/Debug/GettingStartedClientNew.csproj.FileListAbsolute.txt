@@ -1,6 +1,0 @@
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\bin\Debug\GettingStartedClientNew.exe.config
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\bin\Debug\GettingStartedClientNew.exe
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\bin\Debug\GettingStartedClientNew.pdb
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\obj\Debug\GettingStartedClientNew.exe
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\obj\Debug\GettingStartedClientNew.pdb
-F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WCF\GettingStarted2\GettingStartedClientNew\obj\Debug\GettingStartedClientNew.csprojAssemblyReference.cache

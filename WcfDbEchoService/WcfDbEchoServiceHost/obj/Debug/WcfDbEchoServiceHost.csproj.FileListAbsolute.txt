@@ -1,0 +1,15 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoLib.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\Dapper.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoLib.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoLib.dll.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\Dapper.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\Dapper.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.WcfEchoServiceInstaller.resources
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.csproj.GenerateResource.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.pdb

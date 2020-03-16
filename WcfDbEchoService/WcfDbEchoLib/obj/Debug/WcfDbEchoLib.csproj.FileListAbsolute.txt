@@ -1,0 +1,10 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\WcfDbEchoLib.dll.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\WcfDbEchoLib.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\WcfDbEchoLib.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\Dapper.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\Dapper.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\Dapper.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.csprojAssemblyReference.cache

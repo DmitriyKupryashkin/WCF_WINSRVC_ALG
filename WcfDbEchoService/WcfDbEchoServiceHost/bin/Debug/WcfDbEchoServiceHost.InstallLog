@@ -1,0 +1,32 @@
+﻿Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe
+Выполняется удаление источника EventLog WcfDbEchoService.
+Предупреждение. Источник WcfDbEchoService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы WcfDbEchoService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe
+Устанавливается служба WcfDbEchoService...
+Служба WcfDbEchoService успешно установлена.
+Создается исходный EventLog WcfDbEchoService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\WcfDbEchoServiceHost.exe
+Выполняется удаление источника EventLog WcfDbEchoService.
+Выполняется удаление службы WcfDbEchoService из системы...
+Служба WcfDbEchoService успешно удалена из системы.

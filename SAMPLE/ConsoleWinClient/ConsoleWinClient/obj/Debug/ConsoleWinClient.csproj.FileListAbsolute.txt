@@ -1,0 +1,12 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.pdb
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.exe.config
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.exe
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\bin\Debug\ConsoleWinClient.pdb
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.csprojAssemblyReference.cache
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.exe
+F:\Программирование\PortfolioRepo\WCF_WINSRVC_ALG\SAMPLE\ConsoleWinClient\ConsoleWinClient\obj\Debug\ConsoleWinClient.pdb

@@ -1,0 +1,13 @@
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe.config
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\log4net.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\Newtonsoft.Json.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\log4net.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\Newtonsoft.Json.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.csproj.CopyComplete
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.exe
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.FolderWatcherServiceInstaller.resources
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.csproj.GenerateResource.cache
