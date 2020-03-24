@@ -1,0 +1,11 @@
+{
+   "Id":"7702ED88-A73C-4874-8ABF-D2678E3AE92D",
+   "Number":"777",
+   "Summ":100.31,
+   "Discount":12.55,
+   "Articles":[
+      "castom_1L",
+      "castom_2L",
+      "castom_3L"
+   ]
+}

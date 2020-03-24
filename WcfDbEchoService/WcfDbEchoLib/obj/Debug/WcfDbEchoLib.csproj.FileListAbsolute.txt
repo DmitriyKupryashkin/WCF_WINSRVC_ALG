@@ -8,3 +8,5 @@ F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\Win
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.dll
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.pdb
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\obj\Debug\WcfDbEchoLib.csprojAssemblyReference.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\log4net.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoLib\bin\Debug\log4net.xml

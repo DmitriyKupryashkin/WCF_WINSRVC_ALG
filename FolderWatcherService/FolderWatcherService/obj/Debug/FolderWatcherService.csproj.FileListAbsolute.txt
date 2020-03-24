@@ -11,3 +11,11 @@ F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\Win
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.pdb
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.FolderWatcherServiceInstaller.resources
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\obj\Debug\FolderWatcherService.csproj.GenerateResource.cache
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.abstractions.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.assert.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.core.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.execution.desktop.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.abstractions.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.assert.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.core.xml
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\xunit.execution.desktop.xml

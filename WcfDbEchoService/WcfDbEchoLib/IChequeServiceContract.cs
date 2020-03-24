@@ -13,6 +13,6 @@ namespace WcfDbEchoLib
         [OperationContract]
         void SaveCheque(Cheque cheque);
         [OperationContract]
-        List<Cheque> GetLastCheques(int lastChequeCount);
+        List<Cheque> GetChequesPack(int packCount);
     }
 }

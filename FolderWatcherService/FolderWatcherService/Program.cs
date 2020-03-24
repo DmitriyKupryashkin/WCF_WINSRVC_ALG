@@ -1,6 +1,7 @@
 ﻿using FolderWatcherService.Logger;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
@@ -15,9 +16,8 @@ namespace FolderWatcherService
         /// </summary>
         static void Main()
         {
-            MyLogger.InitLogger();
-            MyLogger.Log.Info("logger initialization");
-
+            MyLogger.InitLogger(); 
+            
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
@@ -26,11 +26,11 @@ namespace FolderWatcherService
             try
             {
                 ServiceBase.Run(ServicesToRun);
-                MyLogger.Log.Info("Run Service");
+                MyLogger.Log.Info("Start FolderWatcherService Service ********************* ");
             }
-            catch
+            catch (Exception ex)
             {
-                MyLogger.Log.Error("Service not running");
+                MyLogger.Log.Error($"Service not running {ex}");
             }
         }
     }

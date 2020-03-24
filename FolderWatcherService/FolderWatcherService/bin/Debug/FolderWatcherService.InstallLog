@@ -87,3 +87,727 @@ System.ComponentModel.Win32Exception: Указанная служба не ус�
 Выполняется удаление источника EventLog FolderWatcherService.
 Выполняется удаление службы FolderWatcherService из системы...
 Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется откат для сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Восстанавливается исходное состояние журнала событий для источника FolderWatcherService.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Предупреждение. Источник FolderWatcherService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы FolderWatcherService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.
+Выполняется установка сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Устанавливается служба FolderWatcherService...
+Служба FolderWatcherService успешно установлена.
+Создается исходный EventLog FolderWatcherService в журнале Application...
+Выполняется фиксация сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление сборки 'F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.InstallLog
+   assemblypath = F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\FolderWatcherService\FolderWatcherService\bin\Debug\FolderWatcherService.exe
+Выполняется удаление источника EventLog FolderWatcherService.
+Выполняется удаление службы FolderWatcherService из системы...
+Служба FolderWatcherService успешно удалена из системы.

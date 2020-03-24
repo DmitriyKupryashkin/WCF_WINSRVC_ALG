@@ -14,20 +14,20 @@
   <wsdl:message name="IChequeServiceContract_SaveCheque_OutputMessage">
     <wsdl:part name="parameters" element="tns:SaveChequeResponse" />
   </wsdl:message>
-  <wsdl:message name="IChequeServiceContract_GetLastCheques_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetLastCheques" />
+  <wsdl:message name="IChequeServiceContract_GetChequesPack_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetChequesPack" />
   </wsdl:message>
-  <wsdl:message name="IChequeServiceContract_GetLastCheques_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetLastChequesResponse" />
+  <wsdl:message name="IChequeServiceContract_GetChequesPack_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetChequesPackResponse" />
   </wsdl:message>
   <wsdl:portType name="IChequeServiceContract">
     <wsdl:operation name="SaveCheque">
       <wsdl:input wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/SaveCheque" message="tns:IChequeServiceContract_SaveCheque_InputMessage" />
       <wsdl:output wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/SaveChequeResponse" message="tns:IChequeServiceContract_SaveCheque_OutputMessage" />
     </wsdl:operation>
-    <wsdl:operation name="GetLastCheques">
-      <wsdl:input wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/GetLastCheques" message="tns:IChequeServiceContract_GetLastCheques_InputMessage" />
-      <wsdl:output wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/GetLastChequesResponse" message="tns:IChequeServiceContract_GetLastCheques_OutputMessage" />
+    <wsdl:operation name="GetChequesPack">
+      <wsdl:input wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/GetChequesPack" message="tns:IChequeServiceContract_GetChequesPack_InputMessage" />
+      <wsdl:output wsaw:Action="http://MyWcfSrvs.ServiceModel.Samples/IChequeServiceContract/GetChequesPackResponse" message="tns:IChequeServiceContract_GetChequesPack_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
 </wsdl:definitions>

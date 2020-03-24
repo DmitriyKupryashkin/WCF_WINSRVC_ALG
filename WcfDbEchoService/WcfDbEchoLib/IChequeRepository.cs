@@ -9,6 +9,6 @@ namespace WcfDbEchoLib
     interface IChequeRepository
     {
         void SaveCheque(Cheque cheque);
-        List<Cheque> GetLastCheques(int lastChequeCount);
+        List<Cheque> GetChequesPack(int packCount);
     }
 }

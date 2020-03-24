@@ -13,3 +13,5 @@ F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\Win
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.csproj.CopyComplete
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.exe
 F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\obj\Debug\WcfDbEchoServiceHost.pdb
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\log4net.dll
+F:\Программирование\Project\VS 2015-2017\SomeTestPrgrmFolder\WinSrvWcfSrv\MANZANA\WcfDbEchoService\WcfDbEchoServiceHost\bin\Debug\log4net.xml

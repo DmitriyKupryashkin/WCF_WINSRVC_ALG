@@ -13,17 +13,17 @@
       <xs:sequence />
     </xs:complexType>
   </xs:element>
-  <xs:element name="GetLastCheques">
+  <xs:element name="GetChequesPack">
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" name="lastChequeCount" type="xs:int" />
+        <xs:element minOccurs="0" name="packCount" type="xs:int" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="GetLastChequesResponse">
+  <xs:element name="GetChequesPackResponse">
     <xs:complexType>
       <xs:sequence>
-        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfDbEchoLib" minOccurs="0" name="GetLastChequesResult" nillable="true" type="q2:ArrayOfCheque" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfDbEchoLib" minOccurs="0" name="GetChequesPackResult" nillable="true" type="q2:ArrayOfCheque" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>

@@ -8,6 +8,7 @@ using System.Data;
 using System.Data.Sql;
 using Dapper;
 using System.Data.SqlClient;
+using WcfDbEchoLib.Logger;
 
 namespace WcfDbEchoLib
 {
@@ -16,25 +17,25 @@ namespace WcfDbEchoLib
         string ConnectionString { get; }
 
         public ChequeRepository()
-        {
-           
+        {    
+            //Условное соединение с БД согласно заданию 
             ConnectionString = ConfigurationManager.ConnectionStrings["MyConnection"].ConnectionString;
-            // ConnectionString = ConfigurationManager.ConnectionStrings["DupperDbConnection"].ConnectionString;
         }
 
         /// <summary>
-        /// Возвращает N-последних чеков из БД
+        /// Возвращает N чеков из БД посредством вызова хранимой процедуры dbo.get_cheques_pack
         /// </summary>
-        /// <param name="lastChequeCount"></param>
         /// <returns></returns>
-        public List<Cheque> GetLastCheques(int lastChequeCount)
+        public List<Cheque> GetChequesPack(int packCount)
         {
-            List<Cheque> chequesCollection = new List<Cheque>();
+            MyLogger.Log.Info($"Getting cheques Pack from DB");
 
+            List<Cheque> chequesCollection = new List<Cheque>();
+          
             using (IDbConnection db = new SqlConnection(ConnectionString))
             {
                 Cheque cheque;
-                var cheques1 = db.Query("dbo.get_cheques_pack", new { pack_size = lastChequeCount }, commandType: CommandType.StoredProcedure).ToList();
+                var cheques1 = db.Query("dbo.get_cheques_pack", new { pack_size = packCount }, commandType: CommandType.StoredProcedure).ToList();
                 foreach (var e in cheques1)
                 {
                     var splitedArticles = e.articles.Split(';');
@@ -52,16 +53,17 @@ namespace WcfDbEchoLib
                 }
                 return chequesCollection;
             }
-
            
         }
 
         /// <summary>
-        /// Принимает чек и сохраняет в БД
+        /// Сохраняет чек в БД
         /// </summary>
         /// <param name="cheque"></param>
         public void SaveCheque(Cheque cheque)
         {
+            MyLogger.Log.Info($"Save cheque to DB");
+
             using (IDbConnection db = new SqlConnection(ConnectionString))
             {
                 db.Execute("dbo.save_cheques", new
